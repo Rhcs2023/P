@@ -1,0 +1,2 @@
+gtts
+speech_recognition
